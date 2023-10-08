@@ -1,11 +1,11 @@
 {
-  "name": "Vamp_ipad",
+  "name": "ClearVision",
   "version": "1.0",
-  "description": "Vamp Anime Girl",
+  "description": "bruhhh",
   "authors": [
     {
-      "name": "melonwer",
-      "id": "848518188195250176"
+      "name": "lol its montemero",
+      "id": "0"
     }
   ],
   "theme_color_map": {
@@ -14,31 +14,31 @@
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#FBFBFB",
+      "#dfe0e6",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#B6B6B6",
+      "#b5b5b5",
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
+      "#CCCCCC",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#B6B6B6",
+      "#666666",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#8f150a",
+      "#2780e6",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#6b0000",
+      "#1e63b3",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#d62515",
+      "#2780e6",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -86,7 +86,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#1a1926",
+      "#1e63b3",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -122,15 +122,15 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#ed2828",
+      "#51568a",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#d62515",
+      "#2780e6",
       "#6c56c4"
     ],
     "CHANNEL_ICON": [
-      "#d62515",
+      "#2780e6",
       "#6c56c4"
     ]
   },
@@ -152,8 +152,8 @@
     "CHAT_GREY": "#171717"
   },
   "background": {
-    "blur": 0.1,
-    "url": "http://anime.com.ru/modules/coppermine/albums_for_animecomru/Anime_CG/Anime_Pictures_2014/ES_04/15/645354___Bakemonogatari___Oshino_Shinobu.jpg",
-    "alpha": 1.0
+    "blur": 0.5,
+    "url": "https://cdn.discordapp.com/attachments/695544314763280417/1160493987967283210/IMG_7763.jpg?ex=6534dd3f&is=6522683f&hm=870f8ea0c2fd265deb9e0d41f2c832da2cda8a2a6890bda9dc92f6e36dc70727&",
+    "alpha": 0.6
   }
 }
