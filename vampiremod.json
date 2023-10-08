@@ -1,10 +1,10 @@
 {
-  "name": "Vamp_ipad (MOD)",
-  "version": "2.0",
+  "name": "Vamp_ipad",
+  "version": "1.0",
   "description": "Vamp Anime Girl",
   "authors": [
     {
-      "name": "melonwer &&& montemero",
+      "name": "melonwer",
       "id": "848518188195250176"
     }
   ],
@@ -153,7 +153,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/695544314763280417/1126396668837908541/IMG_7441.jpg",
+    "url": "http://anime.com.ru/modules/coppermine/albums_for_animecomru/Anime_CG/Anime_Pictures_2014/ES_04/15/645354___Bakemonogatari___Oshino_Shinobu.jpg",
     "alpha": 1.0
   }
 }
